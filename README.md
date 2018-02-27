@@ -9,3 +9,8 @@ This competition will surely prove useful in the field of CAPTCHAs
 This is what the objective is.
 The idea is not to break captchas, but to see and understand what makes them strong if they cant be broken.
 This aims to be a study of CAPTCHAs from an AI POV.
+
+### Tools used
+We will be using [CNTK](https://www.microsoft.com/en-us/cognitive-toolkit/) as our primary deep learning toolkit.
+The dataset is an artificial dataset generated using [captcha](https://github.com/lepture/captcha).
+All the required libraries will be listed in the [requirements](requirements.txt) file.

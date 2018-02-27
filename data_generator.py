@@ -1,7 +1,6 @@
 import os
 import random
 import string
-
 from argparse import ArgumentParser
 
 from captcha.image import ImageCaptcha
